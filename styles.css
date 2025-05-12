@@ -25,11 +25,3 @@ body {
 .gallery img:hover {
     transform: scale(1.05);
 }
-/* Görsel koruma */
-img, body {
-    -webkit-user-drag: none;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    user-select: none;
-    pointer-events: none;
-}
